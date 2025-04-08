@@ -1,4 +1,4 @@
-# Image reconstruction from fMRI signals using generative latent diffusion
+# BrainRecon: Image reconstruction from fMRI signals using generative latent diffusion
 
 ## Data
 https://cvnlab.slite.page/p/dC~rBTjqjb/How-to-get-the-data
